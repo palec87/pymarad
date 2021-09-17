@@ -2,4 +2,5 @@ numpy>=1.20.1
 matplotlib>=3.3.4
 scipy>=1.6.1
 pandas>=1.2.3
-
+wbgapi==1.0.5
+matplotlib-venn==0.11.6

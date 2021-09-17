@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Specific files such as not finalized folders
+.cz/02_py_kalkulacka/
+.en/02_py_calculator/
+.en/03_sets/forests_testing_resources.ipynb
+
