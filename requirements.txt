@@ -4,3 +4,5 @@ scipy>=1.6.1
 pandas>=1.2.3
 wbgapi==1.0.5
 matplotlib-venn==0.11.6
+datapackage==1.15.2
+scipy>=1.6.2
