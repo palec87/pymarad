@@ -5,7 +5,7 @@ Collection of tutorials from all fields of life using high-shool math solved wit
 No worries, [Binder](https://mybinder.org/) allows you to run Jupyter Notebooks online.
 
 in **GitHub repository name or URL** field
-copy
+copy the following:
 
 `https://github.com/palec87/pymarad-pilot` 
 
