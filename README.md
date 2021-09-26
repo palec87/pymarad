@@ -11,4 +11,4 @@ copy
 
 and press launch.
 
-It takes some time, but eventually Jupyter environment loads and in the left side panel, you will be able to browse folders containing all the exercise, as well as the introductory Notebooks.
+It takes some time, but eventually Jupyter environment loads and in the left side panel, you will be able to browse folders containing all the exercises, as well as the introductory Notebooks.
