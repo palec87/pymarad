@@ -7,7 +7,7 @@ No worries, [Binder](https://mybinder.org/) allows you to run Jupyter Notebooks 
 in **GitHub repository name or URL** field
 copy the following:
 
-`https://github.com/palec87/pymarad-pilot` 
+`https://github.com/palec87/pymarad` 
 
 and press launch.
 

@@ -131,6 +131,8 @@ dmypy.json
 # Specific files such as not finalized folders
 cz/02_py_kalkulacka/
 cz/01_kvadraticka/ignore/
+
+en/01_quadratic/ignore/
 en/02_py_calculator/
 en/03_sets/forests_testing_resources.ipynb
 en/04_vectors/
