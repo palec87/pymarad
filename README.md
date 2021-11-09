@@ -1,4 +1,4 @@
-# pymarad-pilot
+# Pymarad
 Collection of tutorials from all fields of life using high-shool math solved with the help of Python, not only for the high school students.
 
 ## If you do not have Python installed
