@@ -1,20 +1,17 @@
 # Pymarad
-Collection of tutorials/projects from all fields of life using high-shool math solved with the help of Python, not only for the high school students.
+Collection of tutorials/projects from all fields of life using high-shool with assistance of Python, not only for the high school students.
 
 ## If you do not have Python installed
-No worries, [Binder](https://mybinder.org/) allows you to run Jupyter Notebooks online.
+No worries, there are several options how to run Jupyter Notebooks freely on 3rd party servers:
 
-in **GitHub repository name or URL** field
-copy the following:
+1. Open repository on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palec87/pymarad/HEAD). In the left-hand side panel, you will be able to browse folders containing all the projects, as well as the introductory Notebooks.
+2. Pick a notebook and open in Google colab environment (needs Google account) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/palec87/pymarad/blob/)
+3. Amazon sagemaker studio (needs free account creation to actually run the NBs) [![Open in Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/palec87/pymarad/blob/main/en/05_probability/wee_sea_task.ipynb)
+    * This link opens a preview of one of the projects. 
+    * I do not know about the way to browse through the hierarchy of all the projects.
+    * After singing in, you can however clone whole pymarad repository (all the projects) into your environment.
 
-`https://github.com/palec87/pymarad` 
-
-and press launch.
-
-It takes some time, but eventually Jupyter environment loads and in the left-hand side panel, you will be able to browse folders containing all the projects, as well as the introductory Notebooks.
-
-### Google colab
-Pick a notebook and open in Google colab environment [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/palec87/pymarad/blob/)
+At the moment, my preference for the environments (and testing all the functionalities) goes in order as above.
 
 ## List of projects available up to date (alphabetical)
 ### Fully working
