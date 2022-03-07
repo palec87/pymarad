@@ -13,6 +13,9 @@ and press launch.
 
 It takes some time, but eventually Jupyter environment loads and in the left-hand side panel, you will be able to browse folders containing all the projects, as well as the introductory Notebooks.
 
+### Google colab
+Pick a notebook and open in Google colab environment [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/palec87/pymarad/blob/)
+
 ## List of projects available up to date (alphabetical)
 ### Fully working
 * Probability
