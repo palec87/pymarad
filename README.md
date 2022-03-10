@@ -1,5 +1,5 @@
 # Pymarad
-Collection of tutorials/projects from all fields of life using high-shool with assistance of Python, not only for the high school students.
+Collection of tutorials/projects from all fields of life using high-shool math with assistance of Python, not only for the high school students.
 
 ## If you do not have Python installed
 No worries, there are several options how to run Jupyter Notebooks freely on 3rd party servers:
@@ -12,6 +12,10 @@ No worries, there are several options how to run Jupyter Notebooks freely on 3rd
     * After singing in, you can however clone whole pymarad repository (all the projects) into your environment.
 
 At the moment, my preference for the environments (and testing all the functionalities) goes in order as above.
+
+## Pymarad [webpage](https://www.tutor-online.biz/)
+
+## Project are introduced on [Youtube](https://www.youtube.com/channel/UC9FRDaR5N5AzggJGQUaiCTQ) too.
 
 ## List of projects available up to date (alphabetical)
 ### Fully working
