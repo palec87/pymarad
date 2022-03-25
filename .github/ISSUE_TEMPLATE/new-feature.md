@@ -1,7 +1,7 @@
 ---
 name: New feature
 about: New project/exercise/NB idea
-title: "[new]"
+title: "new"
 labels: new
 assignees: ''
 

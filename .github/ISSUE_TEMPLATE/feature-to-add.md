@@ -1,7 +1,7 @@
 ---
 name: Add feature to existing
 about: Suggest additional functionality for an existing project
-title: "[add]"
+title: "add"
 labels: enhancement
 assignees: ''
 
