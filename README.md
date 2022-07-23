@@ -1,8 +1,15 @@
 # Pymarad
-Collection of tutorials/projects from all fields of life using high-shool math with assistance of Python, not only for the high school students.
+Collection of tutorials/projects from all fields of life using high-shool math and Python, not only for the high school students.
 
-## If you do not have Python installed
-No worries, there are several options how to run Jupyter Notebooks freely on 3rd party servers:
+## New [Pymarad App](https://pymarad-app.herokuapp.com/)
+  * Contains project demos.
+  * teases you with some results.
+  * Provides links.
+
+Back to Pymarad itself..
+
+## If you do not have Python installed:
+There are several options how to run Jupyter Notebooks freely on 3rd party servers:
 
 1. Open repository on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palec87/pymarad/HEAD). In the left-hand side panel, you will be able to browse folders containing all the projects, as well as the introductory Notebooks.
 2. Pick a notebook and open in Google colab environment (needs Google account) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/palec87/pymarad/blob/)
@@ -11,9 +18,7 @@ No worries, there are several options how to run Jupyter Notebooks freely on 3rd
     * I do not know about the way to browse through the hierarchy of all the projects.
     * After singing in, you can however clone whole pymarad repository (all the projects) into your environment.
 
-At the moment, my preference for the environments (and testing all the functionalities) goes in order as above.
-
-## Pymarad [webpage](https://www.tutor-online.biz/)
+At the moment, my preference for the environments (and testing all the functionalities) goes in order of the above list.
 
 ## Project are introduced on [Youtube](https://www.youtube.com/channel/UC9FRDaR5N5AzggJGQUaiCTQ) too.
 
