@@ -1,7 +1,7 @@
 # Pymarad
 Collection of tutorials/projects from all fields of life using high-shool math and Python, not only for the high school students.
 
-## New [Pymarad App](https://pymarad-app.herokuapp.com/)
+## New [Pymarad App](https://pymarad-app.herokuapp.com/) (Unfortunately free Heroku is not available any more, pymapp will be moved to other place soon)
   * Contains project demos.
   * teases you with some results.
   * Provides links.
